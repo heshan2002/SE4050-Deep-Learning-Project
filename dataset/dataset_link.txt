@@ -1,0 +1,18 @@
+Dataset Name: RealWaste
+
+Source:
+UCI Machine Learning Repository
+
+Problem:
+Multi-class waste image classification
+
+Number of Classes:
+9
+
+Dataset will be used by all four deep learning models.
+
+Models:
+1. Custom CNN
+2. MobileNetV2
+3. ResNet50
+4. EfficientNetB0
