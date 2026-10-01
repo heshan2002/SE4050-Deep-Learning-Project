@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+dataset/realwaste/
+dataset/realwaste.zip
